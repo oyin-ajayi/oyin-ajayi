@@ -1,6 +1,5 @@
 - 👋 Hi, I’m oyin ajayi
 - 👀 I’m interested in web development (:
-- 🌱 I’m currently learning node.js and react.js 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me Oyindamarvelous20@gmail.com
 - 😄 Pronouns: ...she(:
